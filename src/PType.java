@@ -1,7 +1,6 @@
 import java.awt.List;
 import java.util.ArrayList;
 import javax.swing.plaf.metal.MetalIconFactory.FolderIcon16;
-
 public class PType {
 	/**
 	 * @param args
