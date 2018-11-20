@@ -16,7 +16,6 @@ public class PType {
 			System.out.println(i);
 			System.out.println(i+2);
 			
-			//2232lijinchang
 		}
 	}
 
