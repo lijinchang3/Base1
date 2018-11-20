@@ -15,8 +15,6 @@ public class PType {
 		for (; i < 10; i++) {
 			System.out.println(i);
 			System.out.println(i+2);
-			//2323
-			//
 		}
 	}
 
