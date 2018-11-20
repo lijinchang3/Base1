@@ -1,6 +1,6 @@
 import java.awt.List;
 import java.util.ArrayList;
-
+//
 import javax.swing.plaf.metal.MetalIconFactory.FolderIcon16;
 
 public class PType {
@@ -8,7 +8,7 @@ public class PType {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
+		// TODO 脳脭露炉脡煤鲁脡碌脛路陆路篓麓忙赂霉
 		//dsafdsafdsa
 	    ArrayList<Integer> list=new ArrayList<Integer>();
 		int i = 0;
